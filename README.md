@@ -14,5 +14,5 @@
 * [Работа с гео-данными](https://github.com/vadim0912/MLbase_2021_spring/tree/main/lecture09)
 * [АВ тесты, проведение экспериментов](https://github.com/vadim0912/MLbase_2021_spring/tree/main/lecture10)
 * [Базы данных, фреймворки для работы с большими данными](https://github.com/vadim0912/MLbase_2021_spring/tree/main/lecture11)
-* Инфраструктура и основа Hadoop
+* [Инфраструктура и основа Hadoop](https://github.com/vadim0912/MLbase_2021_spring/tree/main/lecture12)
 * Экзамен
